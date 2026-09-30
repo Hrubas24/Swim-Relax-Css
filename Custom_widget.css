@@ -4,13 +4,13 @@
 .s9t60i1 {
   background-image:
     linear-gradient(
-      rgba(255, 255, 255, 0.88),
-      rgba(255, 255, 255, 0.88)
+      rgba(255, 255, 255, 0.95),
+      rgba(255, 255, 255, 0.95)
     ),
     url("https://static.vecteezy.com/system/resources/previews/021/767/154/non_2x/swimming-goggles-icon-symbol-illustration-design-template-vector.jpg");
 
   background-repeat: no-repeat, no-repeat;
-  background-position: center 75%, center 75%;
+  background-position: center, center 92%;
   background-size: cover, 360px auto;
-  background-attachment: scroll, fixed;
+  background-attachment: scroll, scroll;
 }
